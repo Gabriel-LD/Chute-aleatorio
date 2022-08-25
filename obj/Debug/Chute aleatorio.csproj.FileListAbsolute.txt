@@ -1,0 +1,8 @@
+C:\Users\gabri\source\repos\Chute aleatorio\bin\Debug\Chute aleatorio.exe.config
+C:\Users\gabri\source\repos\Chute aleatorio\bin\Debug\Chute aleatorio.exe
+C:\Users\gabri\source\repos\Chute aleatorio\bin\Debug\Chute aleatorio.pdb
+C:\Users\gabri\source\repos\Chute aleatorio\obj\Debug\Chute aleatorio.csproj.AssemblyReference.cache
+C:\Users\gabri\source\repos\Chute aleatorio\obj\Debug\Chute aleatorio.csproj.SuggestedBindingRedirects.cache
+C:\Users\gabri\source\repos\Chute aleatorio\obj\Debug\Chute aleatorio.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\Chute aleatorio\obj\Debug\Chute aleatorio.exe
+C:\Users\gabri\source\repos\Chute aleatorio\obj\Debug\Chute aleatorio.pdb
